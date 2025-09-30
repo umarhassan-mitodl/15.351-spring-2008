@@ -5,6 +5,8 @@ description: General instructions for group projects, information on each of thr
 file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/c2476c8da1339cf947b3f1e2582acdc2_group.pdf
 file_size: 66645
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
