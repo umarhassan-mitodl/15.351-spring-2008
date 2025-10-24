@@ -5,8 +5,6 @@ description: Instructions, suggested topics, and additional guidelines for the f
 file: /courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/df383c63114f12c25d7856337f6f68c1_final.pdf
 file_size: 61665
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
